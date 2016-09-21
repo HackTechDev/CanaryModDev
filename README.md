@@ -1,0 +1,2 @@
+Canary mod plugin
+=================
